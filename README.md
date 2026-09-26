@@ -46,6 +46,4 @@ The project includes tables for managing:
 
 The main objective of this project is to provide an organized database system for managing hostel records and reducing errors associated with manual record management.
 
-## 👩‍💻 Developed By
 
-**Lakshmi Charanya**
